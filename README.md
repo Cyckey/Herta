@@ -22,7 +22,6 @@
 - **Responsive Design**: Optimized for all devices—desktop, tablet, and mobile.  
 - **Light/Dark Mode**: Switch between light and dark themes.  
 - **Genre Browsing**: Explore anime by categories like action, romance, or thriller.  
-- **Ad-Free Experience**: Watch without interruptions.  
 
 ---
 
