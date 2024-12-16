@@ -1,9 +1,15 @@
-# Herta Anime Streaming Website
+# Herta Anime
 
 **Herta** is a modern anime streaming platform built using the [Consumet API](https://github.com/consumet/consumet-api). Designed and developed by a single developer, Herta provides a sleek and intuitive interface for discovering and streaming your favorite anime.  
 
 🔗 **Live Site**: [Herta Anime](https://herta-anime.vercel.app)  
 📂 **Repository**: [GitHub](https://github.com/Cyckey/Herta) _(Open source coming soon!)_
+
+---
+
+## 🖼️ Preview  
+
+![Herta Screenshot](https://github.com/Cyckey/Herta/blob/main/herta.jpg)  
 
 ---
 
@@ -21,7 +27,7 @@
 
 - **Frontend**: [Next.js](https://nextjs.org) with [React](https://reactjs.org)
 - **Backend**: [Consumet API](https://github.com/consumet/consumet-api)
-  
+
 ---
 
 ## 🔮 Future Updates
