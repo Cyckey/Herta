@@ -1,9 +1,9 @@
-# Herta Anime
+# Herta Anime  
 
-**Herta** is a modern anime streaming platform built using the [Consumet API](https://github.com/consumet/consumet-api). Designed and developed by a single developer, Herta provides a sleek and intuitive interface for discovering and streaming your favorite anime.  
+**Herta** is a modern anime streaming platform powered by the [Consumet API](https://github.com/consumet/consumet-api). Designed by a passionate solo developer, it delivers a clean, ad-free experience for watching and exploring anime.  
 
 🔗 **Live Site**: [Herta Anime](https://herta-anime.vercel.app)  
-📂 **Repository**: [GitHub](https://github.com/Cyckey/Herta) _(Open source coming soon!)_
+📂 **Repository**: [GitHub](https://github.com/Cyckey/Herta) _(Open source coming soon!)_  
 
 ---
 
@@ -13,49 +13,74 @@
 
 ---
 
-## 🚀 Features
+## 🚀 Features  
 
-- **Powerful Search**: Quickly find your favorite anime using an advanced search powered by the Consumet API.
-- **High-Quality Streaming**: Enjoy a seamless viewing experience with high-resolution playback.
-- **Current Source**: **Gogoanime** (More sources will be added soon!)
-- **Modern UI/UX**: A clean and user-friendly interface designed for easy navigation.
-- **Responsive Design**: Optimized for all devices, from desktops to mobile phones.
-
----
-
-## 🛠️ Tech Stack
-
-- **Frontend**: [Next.js](https://nextjs.org) with [React](https://reactjs.org)
-- **Backend**: [Consumet API](https://github.com/consumet/consumet-api)
+- **Powerful Search**: Easily find anime titles with a search powered by the Consumet API.  
+- **High-Quality Streaming**: Smooth, high-resolution playback for a better viewing experience.  
+- **Current Source**: **Gogoanime** (more sources coming soon).  
+- **Modern UI/UX**: A sleek, user-friendly design for effortless navigation.  
+- **Responsive Design**: Optimized for all devices—desktop, tablet, and mobile.  
+- **Light/Dark Mode**: Switch between light and dark themes.  
+- **Genre Browsing**: Explore anime by categories like action, romance, or thriller.  
+- **Ad-Free Experience**: Watch without interruptions.  
 
 ---
 
-## 🔮 Future Updates
+## 🛠️ Tech Stack  
 
-Herta is actively being improved by its sole developer! Here's what's coming soon:
+Built with reliable, modern technologies for performance:  
 
-- **Additional Sources**: Expanding beyond Gogoanime for a wider selection.
-- **User Accounts**: Personalized watchlists, history, and preferences.
-- **Advanced Filters**: Sort anime by genre, release date, popularity, and more.
-- **Multilingual Support**: Subtitles and dubbed anime in multiple languages.
+- **Frontend**:  
+  - [Next.js](https://nextjs.org)  
+  - [React](https://reactjs.org)  
 
----
-
-## 📜 License
-
-Herta is not open source yet but will be soon! Stay tuned for updates when the repository becomes fully open.
+- **Backend**:  
+  - [Consumet API](https://github.com/consumet/consumet-api)  
 
 ---
 
-## 🖤 Acknowledgments
+## 🔮 Future Updates  
 
-- [Consumet API](https://github.com/consumet/consumet-api) for powering the backend.
+Planned features to enhance Herta:  
+
+- **Additional Sources**: More streaming options for a broader selection.  
+- **User Profiles**: Watchlists, history tracking, and personalized recommendations.  
+- **Advanced Filters**: Filter by release date, rating, popularity, genre, and more.  
+- **Offline Downloads**: Download episodes for offline viewing.  
+- **Multilingual Support**: Subtitles and dubbed options in various languages.  
+- **Push Notifications**: Alerts for new episodes and updates.  
 
 ---
 
-## 📬 Issues & Contributions
+## 📜 License  
 
-This project is built and maintained by a single developer. Your feedback and suggestions are invaluable!  
+Herta is currently closed source but will soon be open for contributions. Stay updated!  
 
-- For suggestions, bug reports, or feature requests, please open an [issue](https://github.com/Cyckey/Herta/issues).
-- Contributions will be welcome once the repository becomes open source.
+---
+
+## 🖤 Acknowledgments  
+
+Special thanks to:  
+
+- [Consumet API](https://github.com/consumet/consumet-api) for backend support.  
+- [Next.js](https://nextjs.org) and [React](https://reactjs.org) for the frontend framework.  
+
+---
+
+## 📬 Feedback & Contributions  
+
+Your input matters!  
+
+- **Report Issues**: Found a bug? Submit an [issue](https://github.com/Cyckey/Herta/issues).  
+- **Suggest Features**: Share ideas via GitHub issues.  
+- **Contributions**: Coming soon with the open-source release.  
+
+---
+
+## 🌟 Why Choose Herta?  
+
+Herta is made for anime enthusiasts, offering:  
+
+- **Ad-Free Streaming**: Enjoy anime without interruptions.  
+- **Sleek, User-Focused Design**: Intuitive and easy to use.  
+- **High Performance**: Powered by modern tools for smooth, reliable streaming.  
