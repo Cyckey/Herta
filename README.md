@@ -1,4 +1,4 @@
-# Herta Anime Streaming Website
+# Herta Anime
 
 **Herta** is a modern anime streaming platform built using the [Consumet API](https://github.com/consumet/consumet-api). With a sleek and intuitive design, Herta allows users to effortlessly search for and stream their favorite anime.  
 
