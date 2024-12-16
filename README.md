@@ -1,18 +1,19 @@
 # Herta Anime Streaming Website
 
-**Herta** is an anime streaming website built with the [Consumet API](https://github.com/consumet/consumet-api). It provides users with a seamless and intuitive interface to discover and watch their favorite anime.
+**Herta** is a modern anime streaming platform built using the [Consumet API](https://github.com/consumet/consumet-api). With a sleek and intuitive design, Herta allows users to effortlessly search for and stream their favorite anime.  
 
-🔗 Live Site: [Herta Anime](https://herta-anime.vercel.app)  
-📂 Repository: [GitHub](https://github.com/Cyckey/Herta) (Open source coming soon!)
+🔗 **Live Site**: [Herta Anime](https://herta-anime.vercel.app)  
+📂 **Repository**: [GitHub](https://github.com/Cyckey/Herta) _(Open source coming soon!)_
 
 ---
 
 ## 🚀 Features
 
-- **Anime Search**: Quickly search for any anime using the Consumet API.
-- **High-Quality Streaming**: Enjoy your favorite anime episodes in high resolution.
-- **User-Friendly Interface**: Clean, modern, and intuitive design for an exceptional browsing experience.
-- **Responsive Design**: Optimized for both desktop and mobile devices.
+- **Powerful Search**: Quickly find your favorite anime using an advanced search powered by the Consumet API.
+- **High-Quality Streaming**: Enjoy a seamless viewing experience with high-resolution playback.
+- **Current Source**: **Gogoanime** (More sources will be added soon!)
+- **Modern UI/UX**: A clean and user-friendly interface designed for easy navigation.
+- **Responsive Design**: Optimized for all devices, from desktops to mobile phones.
 
 ---
 
@@ -23,19 +24,32 @@
 
 ---
 
+## 🔮 Future Updates
+
+Herta is actively being improved! Here's what's coming soon:
+
+- **Additional Sources**: Expanding beyond Gogoanime for a wider selection.
+- **User Accounts**: Personalized watchlists, history, and preferences.
+- **Advanced Filters**: Sort anime by genre, release date, popularity, and more.
+- **Multilingual Support**: Subtitles and dubbed anime in multiple languages.
+
+---
+
 ## 📜 License
 
-This project will be open source soon! More details will be provided when the repository is fully open.
+Herta is not open source yet but will be soon! Stay tuned for updates when the repository becomes fully open.
 
 ---
 
 ## 🖤 Acknowledgments
 
 - [Consumet API](https://github.com/consumet/consumet-api) for powering the backend.
-- The open-source community for inspiration and support.
 
 ---
 
-## 📬 Issues & Pull Requests
+## 📬 Issues & Contributions
 
-If you have any suggestions, improvements, or bug reports, feel free to open an [issue](https://github.com/Cyckey/Herta/issues) or submit a pull request. Contributions are welcome!
+We value your feedback and contributions!  
+
+- For suggestions, bug reports, or feature requests, please open an [issue](https://github.com/Cyckey/Herta/issues).
+- Contributions are welcome! Submit a pull request once the repository is open source.
