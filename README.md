@@ -34,7 +34,7 @@
 - 🛡️ **User-Centric Approach**: Focused on delivering an immersive and hassle-free streaming experience.  
 - 🌱 **Continuous Growth**: Regular updates with new features and optimizations.  
 
-With a clear roadmap and an active community, Herta aims to be the go-to platform for anime lovers.  
+With a clear roadmap, Herta aims to be the go-to platform for anime lovers.  
 
 ---  
 
